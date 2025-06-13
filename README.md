@@ -19,6 +19,8 @@
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/php/php-original.svg" height="30" alt="php logo"  />
   <img width="20" />
+  <img src="https://img.icons8.com/?size=100&id=13441&format=png&color=000000" height="30" alt="Python logo"  />
+  <img width="20" />
 </div>
 
 ###
