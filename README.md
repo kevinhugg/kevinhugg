@@ -4,8 +4,8 @@
 ###
 
 <div align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=kevinhugg&show_icons=true&theme=dracula" height="150" />
-  <img src="https://github-readme-stats-git-master-kevinsworks.vercel.app/api/top-langs/?username=kevinhugg&layout=compact&theme=dracula" height="150"/>
+<img src="https://github-readme-stats-orpin-zeta.vercel.app/api?username=kevinhugg&show_icons=true&theme=dracula" height="150"/>
+  <img src="https://github-readme-stats-orpin-zeta.vercel.app/api/top-langs/?username=kevinhugg&layout=compact&theme=dracula" height="150"/>
 </div>
 
 ###
