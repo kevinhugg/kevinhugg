@@ -21,12 +21,19 @@
   <img width="12" />
   <img src="https://img.icons8.com/?size=100&id=hCWb1IvpcBZ0&format=png&color=000000" height="35" alt="Flask logo"  />
   <img width="12" />
-  <img src="https://img.icons8.com/?size=100&id=9AHxUOg7E9q2&format=png&color=000000" height="35" alt="Flask logo"  />
+  <img src="https://img.icons8.com/?size=100&id=9AHxUOg7E9q2&format=png&color=000000" height="35" alt="Firebase logo"  />
   <img width="12" />
-  <img src="https://img.icons8.com/?size=100&id=bGD8ChgdMIJV&format=png&color=000000" height="30" alt="Flask logo"  />
+  <img src="https://img.icons8.com/?size=100&id=bGD8ChgdMIJV&format=png&color=000000" height="30" alt="Kotlin logo"  />
+  <img width="12" />
+  <img src="https://img.icons8.com/?size=100&id=cdYUlRaag9G9&format=png&color=000000" height="35" alt="Docker logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="30"/>
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="30"/>
   <img width="12" />
 </div>
 
+###
 ###
 
 <div align="center">
