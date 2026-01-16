@@ -1,4 +1,4 @@
-<h2 align="center">olá 👋! Eu sou o Kevin Martins. Fiz o ensino médio técnico de informática para a internet, trabalho com T.I e aqui estão meus projetos.</h2>
+<h2 align="center">\Eai! Eu sou o Kevin Martins. Fiz o ensino médio técnico de informática para a internet, trabalho com T.I e aqui estão meus projetos.</h2>
 
 ###
 
